@@ -50,8 +50,8 @@
 ![teaser](assets/teaserv4.png)
 
 ## News
-* [2025/2/21] Our paper is accepted by CVPR 2026!
-* [2025/2/15] Updated benchmarking dataset with high-resolution .png files at [here](https://huggingface.co/datasets/humanoid-vstar/hstar_bench_png).
+* [2026/2/21] Our paper is accepted by CVPR 2026!
+* [2026/2/15] Updated benchmarking dataset with high-resolution .png files at [here](https://huggingface.co/datasets/humanoid-vstar/hstar_bench_png).
 * [2025/11/26] Our [paper](https://arxiv.org/abs/2511.20351) is available on arXiv.
 * [2025/11/26] We release our finetuend HVS-3B model on HuggingFace.
 * [2025/11/26] We release our training datasets on HuggingFace.
